@@ -1,5 +1,8 @@
 _repo: Verses-popular-and-humorous_52066
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52066-h/images/cover.jpg
 creator:
   author:
     agent_name: Lawson, Henry
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/119
     wikipedia: http://en.wikipedia.org/wiki/Henry_Lawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52066#Verses-popular-and-humorous
 gutenberg_issued: '2016-05-14'
 gutenberg_type: Text
 identifiers:
